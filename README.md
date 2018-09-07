@@ -1,2 +1,2 @@
-# PACMAN
-Create a generic pacman game by the End of November
+# Infinity
+Create a generic sidescroller game by the End of November
